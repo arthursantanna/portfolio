@@ -189,7 +189,6 @@ section{
 #foto{
     border-radius: 50%;
     width: 100%;
-    height: 350px;
     object-fit: cover;
 }
 #sobreMim .sobreTxt{
@@ -540,10 +539,6 @@ footer i:hover{
         width: auto;
         display: flex;
         align-items: center;
-    }
-    #foto{
-        width: 100%;
-        height: 70%;
     }
     #sobreMim .container{
         display: flex;
